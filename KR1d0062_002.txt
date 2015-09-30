@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 月令明義
-#+DATE: 2015-09-23 09:38:24
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:10:30.449585
+#+PROPERTY: ID KR1d0062
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0062_WYG_002-1a>¶
 欽定四庫全書¶
 　月令明義卷二¶
@@ -326,4 +328,3 @@
 　(睹戊子土行御天子修宫室築臺榭君/危外築城郭臣殆亦各七十二日而畢)¶
 　¶
 　月令明義卷二¶
-
